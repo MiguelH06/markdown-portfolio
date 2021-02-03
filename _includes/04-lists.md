@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- I like volleyball
+- I like baseball
+- I like music
+- I like coding
