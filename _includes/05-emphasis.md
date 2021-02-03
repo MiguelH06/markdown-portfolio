@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+As an individual I have many things that will help me get a better position in the future such as *C++*, **Java**
